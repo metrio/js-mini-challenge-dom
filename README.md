@@ -50,7 +50,7 @@ Figure out what you need to change to give Javascript access to the `h1#header` 
 
 **YOUR NOTES**
 ```
-
+Put 'defer' in line 7 of the code where it was calling our JS file. The header hasn't been defined
 ```
 
 ## Deliverable 2
@@ -59,7 +59,7 @@ Now that you have access to the `h1#header` element, use Javascript to change th
 
 **YOUR NOTES**
 ```
-
+Easy solve
 ```
 
 ## Deliverable 3
